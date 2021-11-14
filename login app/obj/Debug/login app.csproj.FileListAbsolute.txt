@@ -1,0 +1,11 @@
+C:\Users\GH\source\repos\login app\login app\bin\Debug\login app.exe.config
+C:\Users\GH\source\repos\login app\login app\bin\Debug\login app.exe
+C:\Users\GH\source\repos\login app\login app\bin\Debug\login app.pdb
+C:\Users\GH\source\repos\login app\login app\obj\Debug\login app.csproj.AssemblyReference.cache
+C:\Users\GH\source\repos\login app\login app\obj\Debug\login_app.Form1.resources
+C:\Users\GH\source\repos\login app\login app\obj\Debug\login_app.Properties.Resources.resources
+C:\Users\GH\source\repos\login app\login app\obj\Debug\login app.csproj.GenerateResource.cache
+C:\Users\GH\source\repos\login app\login app\obj\Debug\login app.csproj.CoreCompileInputs.cache
+C:\Users\GH\source\repos\login app\login app\obj\Debug\login app.exe
+C:\Users\GH\source\repos\login app\login app\obj\Debug\login app.pdb
+C:\Users\GH\source\repos\login app\login app\obj\Debug\login_app.Form2.resources
